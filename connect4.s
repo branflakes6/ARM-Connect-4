@@ -1,9 +1,4 @@
-;
-; CS1022 Introduction to Computing II 2018/2019
-; Mid-Term Assignment - Connect 4 - SOLUTION
-;
-; get, put and puts subroutines provided by jones@scss.tcd.ie
-;
+
 
 PINSEL0	EQU	0xE002C000
 U0RBR	EQU	0xE000C000
